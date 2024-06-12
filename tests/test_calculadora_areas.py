@@ -1,5 +1,5 @@
 import unittest
-from calculadora_de_areas import CalculadoraDeAreas
+from calculadora_areas import CalculadoraDeAreas
 
 class TestCalculadoraDeAreas(unittest.TestCase):
 
