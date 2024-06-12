@@ -11,7 +11,7 @@ O arquivo `calculadora_areas.py` contém a classe `CalculadoraDeAreas` com méto
 
 ## Arquivo de Testes
 
-Os testes de unidade são escritos no arquivo `tests/test_calculadora_de_areas.py`.
+Os testes de unidade são escritos no arquivo `tests/test_calculadora_areas.py`.
 
 ## Configuração do GitHub Actions
 
