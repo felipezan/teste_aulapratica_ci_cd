@@ -13,3 +13,10 @@ class CalculadoraDeAreas:
         if lado < 0:
             raise ValueError("O lado não pode ser negativo")
         return lado * lado
+
+    # esse metodo calcula a area de um retangulo dado o comprimento e a largura
+    def calcularAreaRetangulo(self, comprimento, largura):
+        if comprimento < 0 or largura < 0:
+            raise ValueError("O comprimento e a largura não podem ser negativos")
+        return comprimento * largura
+
